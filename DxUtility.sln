@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DxUtility", "DxUtility.vcproj", "{F93DC7A1-8517-45F9-886D-FD019441C453}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = Perforce\u0020Project
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Perforce\u0020SCM
+		CanCheckoutShared = true
+		SolutionUniqueID = {D0C7E5A8-8842-45CC-A2AF-28B23EFDF608}
+		SccProjectUniqueName1 = DxUtility.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F93DC7A1-8517-45F9-886D-FD019441C453}.Debug.ActiveCfg = Debug|Win32
+		{F93DC7A1-8517-45F9-886D-FD019441C453}.Debug.Build.0 = Debug|Win32
+		{F93DC7A1-8517-45F9-886D-FD019441C453}.Release.ActiveCfg = Release|Win32
+		{F93DC7A1-8517-45F9-886D-FD019441C453}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
